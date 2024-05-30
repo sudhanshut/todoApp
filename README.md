@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/bookmark-app.git
+git clone https://github.com/sudhanshut/todoApp.git
 Navigate to the project directory:
 
 bash
